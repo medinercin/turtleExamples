@@ -6,7 +6,7 @@ Bu projede Python'un Turtle kütüphanesini kullanarak çeşitli grafik çalış
 - 🇹🇷 Bayrak çizimleri
 - 🌀 Spiral desenler
 - 🔷 Geometrik şekiller
-- 🎨 Yaratıcı sanat çalışmaları
+
 
 ## Kurulum ve Kullanım
 Projeyi çalıştırmak için Python 3.x kurulu olmalıdır.
