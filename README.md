@@ -1,2 +1,12 @@
-# turtleExamples
-Python Turtle kütüphanesini kullanarak oluşturduğum bayrak çizimleri ve diğer yaratıcı grafik projeleri.
+# 🐢 Turtle Projeleri
+
+Bu projede Python'un Turtle kütüphanesini kullanarak çeşitli grafik çalışmaları gerçekleştirdim. Bayrak çizimleri, geometrik desenler ve sanatsal tasarımlar gibi farklı uygulamalar yer almaktadır.
+
+## İçerik
+- 🇹🇷 Bayrak çizimleri
+- 🌀 Spiral desenler
+- 🔷 Geometrik şekiller
+- 🎨 Yaratıcı sanat çalışmaları
+
+## Kurulum ve Kullanım
+Projeyi çalıştırmak için Python 3.x kurulu olmalıdır.
